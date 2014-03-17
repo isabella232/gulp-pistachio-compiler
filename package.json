@@ -1,6 +1,6 @@
 {
   "name": "gulp-pistachio-compiler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin for pistachio compiler",
   "main": "index.js",
   "dependencies": {
