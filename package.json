@@ -1,0 +1,22 @@
+{
+  "name": "gulp-pistachio-compiler",
+  "version": "0.0.1",
+  "description": "Gulp plugin for pistachio compiler",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "~0.4.0",
+    "pistachio-compiler": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "author": {
+    "name": "Sönmez Kartal",
+    "email": "sonmez@koding.com"
+  },
+  "license": "MIT"
+}
